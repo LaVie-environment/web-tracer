@@ -1,4 +1,4 @@
-FROM diamol/node
+FROM node
 
 CMD ["node", "/web-ping/app.js"]
 
